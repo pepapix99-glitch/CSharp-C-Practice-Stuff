@@ -87,7 +87,7 @@ namespace practiceStuff.typeCasting
             char g = Convert.ToChar(f);
             Console.WriteLine(g);
             Console.WriteLine(g.GetTypeCode());
-
+//____________________________________________________________________________________________________________________________________________________________________________________________
             //String to Bool
             //Bool or Boolean = true/false
 
